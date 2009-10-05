@@ -1,7 +1,9 @@
 #summary OCRFeeder repository change
 
-= Introduction =
+= OCRFeeder's Repository =
 
 OCRFeeder has changed its development to Gitorious in order to have GIT as its version-control system.
 
 Checkout its code at: http://gitorious.org/ocrfeeder
+
+Google Code will be used only for bug tracking from now on (Oct 5, 2009).
